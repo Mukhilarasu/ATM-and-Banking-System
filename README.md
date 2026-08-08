@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
+# Reg No: 212225040264
+# Name: Mukhilarasu K
 # Date:
 
 
