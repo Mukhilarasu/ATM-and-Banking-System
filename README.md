@@ -68,6 +68,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="946" height="553" alt="image" src="https://github.com/user-attachments/assets/62c82dd2-f589-4e29-bf13-c4decad80826" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +78,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1176" height="595" alt="image" src="https://github.com/user-attachments/assets/8b1ed786-c624-49e2-bbbf-59fcca05f74f" />
 
 
 # PACKAGE DIAGRAM:
@@ -89,6 +91,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1142" height="760" alt="image" src="https://github.com/user-attachments/assets/95ebf785-78a2-4751-a062-5fd1648677e0" />
 
 
 
@@ -106,6 +109,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="780" height="785" alt="image" src="https://github.com/user-attachments/assets/1873a84a-2873-49ae-9b96-f7e84f80091d" />
 
 
 
@@ -116,6 +120,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1106" height="832" alt="image" src="https://github.com/user-attachments/assets/8148d351-15a0-4dca-a3c5-9e1db24c4efc" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -127,6 +132,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+RESULT
+Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
 
 
 
